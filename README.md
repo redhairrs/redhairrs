@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=67F7F5&size=65&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+RED+HERE;I+AM+IN+LOVE+WITH+CODING....)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/r3habrs" target="blank"><img src="https://img.shields.io/twitter/follow/r3habrs?logo=twitter&style=for-the-badge" alt="r3habrs" /></a> </p>
+<h3 align="center">A passionate about programmer</h3>
 
 <br>
 
@@ -9,7 +9,7 @@
 - 📫 How to reach me **r3hab.rs@gmail.com**
 
 - ⚡ Fun fact **I THINK I AM GOOD AT CODING**
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/r3habrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r3habrs" height="30" width="40" /></a>
