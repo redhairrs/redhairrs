@@ -29,7 +29,6 @@
 ## 📊 My Github Stats
 
 <br>
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhairrs&theme=chartreuse-dark&show_icons=true)
-</details>
+
