@@ -1,4 +1,5 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg%22%3E<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=54BAD7&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+Sid+here.;Just+started+to+code.;Wanting+to+learn+so+much.+%F0%9F%98%84%22%3E</a>
+
 <p align="left"> <a href="https://twitter.com/r3habrs" target="blank"><img src="https://img.shields.io/twitter/follow/r3habrs?logo=twitter&style=for-the-badge" alt="r3habrs" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA+DSA**
