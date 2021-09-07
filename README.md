@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm RISHABH SHARMA</h1>
-<h3 align="center">I AM NEW TO CODING..</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=67F7F5&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+RED+HAIR;I+AM+IN+LOVE+WITH+CODING......)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://twitter.com/r3habrs" target="blank"><img src="https://img.shields.io/twitter/follow/r3habrs?logo=twitter&style=for-the-badge" alt="r3habrs" /></a> </p>
 
