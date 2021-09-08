@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **r3hab.rs@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM GOOD AT CODING**
+- ⚡ Fun fact **I AM GOOD AT flirting**
+
 <br>
 <h3 align="left">## Connect with me:</h3>
 <p align="left">
