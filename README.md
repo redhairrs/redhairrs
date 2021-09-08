@@ -33,3 +33,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhairrs&theme=chartreuse-dark&show_icons=true)
 
+<br>
+
+ ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=redhairrs&label=Profile%20views&color=0e75b6&style=flat">
+</a>
+<a href="https://github.com/redhairrs?tab=followers"><img src="https://img.shields.io/github/followers/redhairrs?label=Followers&style=social" alt="GitHub Badge"></a>
