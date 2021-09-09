@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&color=67F7F5&size=65&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+RED+HERE;I+AM+IN+LOVE+WITH+CODING....)](https://git.io/typing-svg)
 
-<h3 align="center">I'M passionate about programmer.</h3>
+<h3 align="center">I'M passionate about programing.</h3>
 
 <br>
 
