@@ -33,7 +33,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhairrs&theme=chartreuse-dark&show_icons=true)
+![RISHABH's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhairrs&theme=chartreuse-dark&show_icons=true)
 
 <br>
 
