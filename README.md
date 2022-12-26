@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **JAVA+DSA**
+- 🌱 I’m currently learning **DSA_COMPITITIVE_PROGRAMMING**
 
 - 📫 How to reach me **r3hab.rs@gmail.com**
 
