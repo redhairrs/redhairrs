@@ -29,13 +29,16 @@
 
 [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=redhairrs&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/redhairrs)
 
-## 📊 My Github Stats
-
+## My Github Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="23">
+<br>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=redhairrs&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=redhairrs&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=redhairrs&theme=solarized-light&hide_border=true&background=FFFFFF00">
+</p>
 <br>
 
-![RISHABH's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhairrs&theme=chartreuse-dark&show_icons=true)
-
-<br>
+![](./bottom.svg)
 
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
